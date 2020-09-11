@@ -1,0 +1,7 @@
+C:\Users\smiller\Desktop\VSB\C#\KamenNuzkyPapir\KamenNuzkyPapir\KamenNuzkyPapir\bin\Debug\KamenNuzkyPapir.exe.config
+C:\Users\smiller\Desktop\VSB\C#\KamenNuzkyPapir\KamenNuzkyPapir\KamenNuzkyPapir\bin\Debug\KamenNuzkyPapir.exe
+C:\Users\smiller\Desktop\VSB\C#\KamenNuzkyPapir\KamenNuzkyPapir\KamenNuzkyPapir\bin\Debug\KamenNuzkyPapir.pdb
+C:\Users\smiller\Desktop\VSB\C#\KamenNuzkyPapir\KamenNuzkyPapir\KamenNuzkyPapir\obj\Debug\KamenNuzkyPapir.csprojAssemblyReference.cache
+C:\Users\smiller\Desktop\VSB\C#\KamenNuzkyPapir\KamenNuzkyPapir\KamenNuzkyPapir\obj\Debug\KamenNuzkyPapir.csproj.CoreCompileInputs.cache
+C:\Users\smiller\Desktop\VSB\C#\KamenNuzkyPapir\KamenNuzkyPapir\KamenNuzkyPapir\obj\Debug\KamenNuzkyPapir.exe
+C:\Users\smiller\Desktop\VSB\C#\KamenNuzkyPapir\KamenNuzkyPapir\KamenNuzkyPapir\obj\Debug\KamenNuzkyPapir.pdb
